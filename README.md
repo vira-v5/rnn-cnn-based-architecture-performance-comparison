@@ -6,12 +6,15 @@ Based on the results of the accuracy scores of the experiments, RNN still perfor
 
 I would also like to acknowledge that big part of my codes was based or inspired by the following links:
 
-https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings \n
+https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings 
+
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/#:~:text=Save%20Your%20Neural%20Network%20Model%20to%20JSON&text=Keras%20provides%20the%20ability%20to,model%20from%20the%20JSON%20specification.
 
 
 The following links also provided the tikzpicture code for some figures in the thesis:
 
 https://tex.stackexchange.com/questions/153957/drawing-neural-network-with-tikz
+
 https://tex.stackexchange.com/questions/432312/how-do-i-draw-an-lstm-cell-in-tikz
+
 https://tex.stackexchange.com/questions/494139/how-do-i-draw-a-simple-recurrent-neural-network-with-goodfellows-style
