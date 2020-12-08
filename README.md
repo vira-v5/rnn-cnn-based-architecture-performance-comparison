@@ -6,7 +6,7 @@ Based on the results of the accuracy scores of the experiments, RNN still perfor
 
 I would also like to acknowledge that big part of my codes was based or inspired by the following links:
 
-https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
+https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings \n
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/#:~:text=Save%20Your%20Neural%20Network%20Model%20to%20JSON&text=Keras%20provides%20the%20ability%20to,model%20from%20the%20JSON%20specification.
 
 
