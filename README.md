@@ -10,6 +10,8 @@ https://www.kaggle.com/christofhenkel/how-to-preprocessing-when-using-embeddings
 
 https://machinelearningmastery.com/save-load-keras-deep-learning-models/#:~:text=Save%20Your%20Neural%20Network%20Model%20to%20JSON&text=Keras%20provides%20the%20ability%20to,model%20from%20the%20JSON%20specification.
 
+https://realpython.com/python-keras-text-classification/#reader-comments
+
 
 The following links also provided the tikzpicture code for some figures in the thesis:
 
